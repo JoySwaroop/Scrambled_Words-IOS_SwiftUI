@@ -2,7 +2,6 @@
 //  QuestionModel.swift
 //  ScrambledWords
 //
-//  Created by Joy Swaroop on 13/07/25.
 //
 
 import Foundation
